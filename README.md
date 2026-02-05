@@ -12,6 +12,9 @@ A simple console-based Connect Four game written in Java for two players (A and 
   - Diagonal (both directions)
 - Draw detection (top row is full)
 
+### Win Condition / Kazanma Durumu
+A player wins if **4 of their discs (A or B)** are connected:
+
 ## How to Run
 1. Save the file as `ConnectFourGame.java`
 2. Compile:
